@@ -1,5 +1,7 @@
 # Svod (Свод)
 
+[![Join the chat at https://gitter.im/svod-music/svod](https://badges.gitter.im/svod-music/svod.svg)](https://gitter.im/svod-music/svod?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![License GPL 3](https://img.shields.io/badge/license-GPL_3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
 [![Build Status](https://travis-ci.org/svod-music/svod.svg?branch=master)](https://travis-ci.org/svod-music/svod)
 
